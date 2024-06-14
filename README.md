@@ -8,3 +8,8 @@ The project aims to analyze and visualize FreeCodeCamp forum page views over tim
 1. Line Plot: Shows daily page views from May 2016 to December 2019.
 2. Bar Plot: Displays average page views per month, grouped by year.
 3. Box Plot: Illustrates the distribution of page views within each year and month.
+
+## Libraries Used
+- matplotlib
+- pandas
+- seaborn
